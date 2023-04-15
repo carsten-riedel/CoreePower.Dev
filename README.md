@@ -1,2 +1,3 @@
 # CoreePower.Dev
-Experimental Module
+CoreePower.Dev experimental module do not use !
+
